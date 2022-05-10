@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/TTUmejiaku/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://ttumejiaku-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -35,7 +35,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
